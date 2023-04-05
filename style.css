@@ -1,0 +1,19 @@
+.color{
+  color: red;
+  background-color: aqua;
+}
+
+.dim{
+  padding: 2rem;
+}
+
+body{
+  /* height: 5000px; */
+  padding: 100px;
+  background-color: cornsilk;
+}
+
+#myDiv{
+  padding: 50px;
+  background: blue;
+}
